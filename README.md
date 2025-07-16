@@ -1,2 +1,8 @@
 # nlp-learning
-Repository for all the basics of NLP.
+NLP Text Preprocessing Techniques - A beginner-friendly Jupyter notebook covering 
+tokenization
+stopword removal
+Stemming
+Lemmatization
+POS tagging
+Named-entity Recognition
